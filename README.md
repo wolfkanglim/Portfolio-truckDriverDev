@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+My name is Wolfkang aka  'The TruckDriverDev'. ✨I drove one Million Miles to get here.
+🌱I’m currently working on 2D games... check out JINDOG game at repo -jindog-2d-javascript.
 <!--
 **wolfkanglim/wolfkanglim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
