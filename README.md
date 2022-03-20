@@ -12,7 +12,8 @@
 🌱I’m currently working on 2D games... check out JINDOG game at repo -jindog-2d-javascript.
 
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74490365/158003633-f8ccadb3-36d9-46a0-b264-e3a28826e32b.png" width="740" /></a>
-
+# Let's play!
+https://wolfkanglim.github.io/-JinDog-game2d/
 
 
 #
