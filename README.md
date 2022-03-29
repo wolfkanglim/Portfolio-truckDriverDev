@@ -62,13 +62,12 @@ FB, Twitter, YouTube, codepen, email
 https://wolfkanglim.github.io/hungrywolf-game/
 
 
-# Sanke Bite! My very best first classic game.
-### about 40 years ago (1985...), I had a opprtunity to see a PC(IBM or apple) only one night. I open the book and there is a code for the Snake Bite game. I just follow the code and Voila! snake run!!
-After 40 years I play Snake bite game again, the difference is tha I programmed it by myself.
-I chased my dream for long time, but i did not realize tha I had a dream.
-My dream came true because of modern technic and Internet.
+# SnakeBite! My very best first classic game.
+### about 40 years ago (1985...), I had an opportunity to see a PC(IBM or apple) for only one night. I open the book and there is a code for the Snake Bite game. I just follow the code and Voila! snake run!!
+After 40 years I play the Snakebite game again, the difference is that I programmed it by myself.
+I chased my dream for a long time, but I did not realize that I had a dream.
+My dream came true because of modern technic and the Internet.
 If I can do this, anyone can.
-
 ### SnakeBite-Javascript
 
 ![sankebite](https://user-images.githubusercontent.com/74490365/160528268-246007ea-db7d-463d-9403-a0e97ba1ed36.png)
