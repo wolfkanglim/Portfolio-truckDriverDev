@@ -6,8 +6,8 @@
 <!-- ![space-truck](https://user-images.githubusercontent.com/74490365/158002666-0fe88470-bf7b-4b37-9b47-22d68c653501.jpg) -->
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74490365/158002666-0fe88470-bf7b-4b37-9b47-22d68c653501.jpg" width="360" /></a>
 
-#
-<img src="https://img.shields.io/badge/-JavaScript-blue?logo=javascript&logoColor=yellow&logoWidth=30&style=plastic">
+
+<a> <img src="https://img.shields.io/badge/-JavaScript-blue?logo=javascript&logoColor=yellow&logoWidth=30&style=plastic">
 <img src="https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=black&logoWidth=30&style=plastic">
 <img src="https://img.shields.io/badge/-CSS3-red?logo=css3&logoColor=black&logoWidth=30&style=plastic">
 <img src="https://img.shields.io/badge/-Ableton%20Live-61DAFB?logo=abletonLive&logoColor=black&logoWidth=30&style=plastic">
@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/-SoundCloud-61DAFB?logo=soundcloud&logoColor=white&logoWidth=30&style=plastic">
 <img src="https://img.shields.io/badge/-Git-61DAFB?logo=git&logoColor=black&logoWidth=30&style=plastic">
 <img src="https://img.shields.io/badge/-GitHub-61DAFB?logo=github&logoColor=black&logoWidth=30&style=plastic">
-<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&logoHeight=30&style=plastic">
+<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&logoHeight=30&style=plastic"></a>
 
 
 ### ✨ Awesome 'run and jump' game - JavaScript
