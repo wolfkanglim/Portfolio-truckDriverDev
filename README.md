@@ -16,6 +16,18 @@
 <img src="https://img.shields.io/badge/-Git-61DAFB?logo=git&logoColor=black&logoWidth=30&style=plastic">
 <img src="https://img.shields.io/badge/-GitHub-61DAFB?logo=github&logoColor=black&logoWidth=30&style=plastic">
 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&logoHeight=30&style=plastic"></a>
+# 
+# ✨ ✨ ✨  My Projects  ✨ ✨ ✨
+#
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74490365/182298266-cf461e53-5a4e-48d1-8827-a140b9957f96.png" width="740" /></a>
+# HAEMA The Seahorse Game 
+Classical  2d shooting video game with awesome graphics and fantastic sound. 
+HTML5, CSS3 and HTML Canvas.  no frameworks,  no libraries.
+JavaScript 2D Game tutorial by Franks Laboratory. Game Assets provided by Frank Laboratory.
+Music and audio effects from Ableton Live 11 Intro.
+<!-- ![haema1](https://user-images.githubusercontent.com/74490365/182298266-cf461e53-5a4e-48d1-8827-a140b9957f96.png) -->
+### PLAY NOW!!!
+### https://wolfkanglim.github.io/haema-game/
 #
 #
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74490365/183239283-31b8d839-f138-40c9-8131-0df154516615.png" width="740" /></a>
@@ -25,7 +37,7 @@
 Lovely Bubbly Fish Kissing game- JavaScript 2D game.
 JavaScript bubble fish game tutorial from Franks Laboratory
 
-## Wanna Play?
+### Wanna Play?
 https://wolfkanglim.github.io/bubble-fish-game/
 #
 #
@@ -33,7 +45,7 @@ https://wolfkanglim.github.io/bubble-fish-game/
 # Jin Dog Game
 ### ✨ Awesome 'run and jump' game - JavaScript
 🌱I’m currently working on 2D games... check out JINDOG game at repo -jindog-2d-javascript.
-# ✨Let's play!
+### ✨Let's play!
 https://wolfkanglim.github.io/-JinDog-game2d/
 #
 #
@@ -55,8 +67,8 @@ Finger Drum Samulnori app is designed for finger drumming pads. this is a protot
 Original audio sample from National Gugak Center South Korea(음원 제공: 국립 국악원) 
 Couldn't upload .wav file I had to convert to .mp3 so the audio quality in less than what I expected.
 version 2 will be better, I hope.
-# Play!
-## ✨soften your fingers!✨
+### Play!
+### ✨soften your fingers!✨
 https://wolfkanglim.github.io/finger-drum-samulnori/
 
 ### I'm working on version 2.
@@ -77,7 +89,7 @@ FB, Twitter, YouTube, codepen, email
 #
 ![hungrywolf-game](https://user-images.githubusercontent.com/74490365/158041092-80e04938-920f-41e7-9431-1c1318df24a4.png)
 #  Hungry Wolf Game - JavaScript
-## ✨Just for tickle your brain!✨
+### ✨Just for tickle your brain!✨
 ### ✨ Play Memory Card Game - hungrywolf-game
 https://wolfkanglim.github.io/hungrywolf-game/
 
