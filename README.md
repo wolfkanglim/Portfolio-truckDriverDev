@@ -106,6 +106,27 @@ If I can do this, anyone can.
 ### Try! take a bite.
 https://wolfkanglim.github.io/SnakeBite-javascript/
 
+# 🌱 I’m currently learning ...
+### three.js  
+- codrops (https://tympanus.net/codrops/)
+  SimonDev(https://www.youtube.com/channel/UCEwhtpXrg5MmwlH04ANpL8A/featured)
+### Apache Cordova 
+- javaTpoint(https://www.javatpoint.com/cordova-architecture)
+- Steve Griffith - Prof3ssorSt3v3 (https://www.youtube.com/c/SteveGriffith-Prof3ssorSt3v3/featured)
+### Vanilla JavaScript Game Developer
+- Franks laboratory (https://www.youtube.com/c/Frankslaboratory)
+- Coding Math (http://www.codingmath.com/)
+- Web Dev Simplified (https://courses.webdevsimplified.com/)
+- Wes Bos JavaScript30(https://javascript30.com/)
+- Traversy Media (https://www.youtube.com/watch?v=hdI2bqOjy3c)
+- Programming with Mosh (https://www.youtube.com/c/programmingwithmosh/playlists)
+- Dev Ed (https://www.youtube.com/c/DevEd)
+- Music and Coding (https://www.youtube.com/c/MusicandCoding)
+- 드림코딩 (https://www.youtube.com/channel/UC_4u-bXaba7yrRz_6x6kb_w)
+- 생활코딩 (https://www.youtube.com/user/egoing2)
+- Class Central (https://www.youtube.com/watch?v=mdXonjilZew&list=PLU3RKvMpgrSEoqVIV14K_zuinrIBcnCgT)
+
+
 <!--
 ![jindog](https://user-images.githubusercontent.com/74490365/158003633-f8ccadb3-36d9-46a0-b264-e3a28826e32b.png) -->
 <!--
