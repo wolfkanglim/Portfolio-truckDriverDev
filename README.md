@@ -24,8 +24,20 @@
 <img src="https://img.shields.io/badge/-GitHub-61DAFB?logo=github&logoColor=black&logoWidth=30&style=plastic">
 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&logoHeight=30&style=plastic"></a>
 # 
-# ✨ ✨ ✨  My Projects  ✨ ✨ ✨
+# ✨ ✨ ✨  Projects  ✨ ✨ ✨
 #
+![visual3d](https://user-images.githubusercontent.com/74490365/192692944-f30dd61e-a00e-411a-bb96-9d4fa0c81d1e.png)
+# Orpheus 3d-music-visualizer
+### Create your music 3D visualization video.
+### https://wolfkanglim.github.io/3d-music-visualizer-Orpheus/
+### Upload your favorite song, play it, control 3d objects and record it!
+### Demo https://www.youtube.com/watch?v=8yWXVgFz-3Q&t=5s
+
+# 
+
+#
+#  ✨ ✨ ✨
+
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74490365/182298266-cf461e53-5a4e-48d1-8827-a140b9957f96.png" width="740" /></a>
 # HAEMA The Seahorse Game 
 Classical  2d shooting video game with awesome graphics and fantastic sound. 
@@ -37,6 +49,7 @@ Music and audio effects from Ableton Live 11 Intro.
 ### https://wolfkanglim.github.io/haema-game/
 #
 #
+# ✨ ✨ ✨
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74490365/183239283-31b8d839-f138-40c9-8131-0df154516615.png" width="740" /></a>
 <
 <!-- ![Screenshot 2022-08-06 031517](https://user-images.githubusercontent.com/74490365/183239283-31b8d839-f138-40c9-8131-0df154516615.png) -->
@@ -48,6 +61,7 @@ JavaScript bubble fish game tutorial from Franks Laboratory
 https://wolfkanglim.github.io/bubble-fish-game/
 #
 #
+# ✨ ✨ ✨
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74490365/158003633-f8ccadb3-36d9-46a0-b264-e3a28826e32b.png" width="740" /></a>
 # Jin Dog Game
 ### ✨ Awesome 'run and jump' game - JavaScript
@@ -56,6 +70,7 @@ https://wolfkanglim.github.io/bubble-fish-game/
 https://wolfkanglim.github.io/-JinDog-game2d/
 #
 #
+#  ✨ ✨ ✨
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74490365/160407967-cd3fdd88-2647-49ab-988b-6620a5424a90.png" width="740" /></a>
 <!-- ![music-visualizer-cosmos](https://user-images.githubusercontent.com/74490365/160407967-cd3fdd88-2647-49ab-988b-6620a5424a90.png) -->
 # music-visualizer-cosmos - JavaScript
@@ -66,6 +81,7 @@ https://wolfkanglim.github.io/music-visualizer-cosmos/
 
 #
 #
+#  ✨ ✨ ✨
 ![finger-samulnori](https://user-images.githubusercontent.com/74490365/158352609-356be0c7-fc08-45ec-a8c9-0f6767b6759a.png)
 ## ✨ I create awesome contents
 # finger-drum-samulnori - JavaScript
@@ -94,6 +110,7 @@ FB, Twitter, YouTube, codepen, email
 
 #
 #
+#  ✨ ✨ ✨
 ![hungrywolf-game](https://user-images.githubusercontent.com/74490365/158041092-80e04938-920f-41e7-9431-1c1318df24a4.png)
 #  Hungry Wolf Game - JavaScript
 ### ✨Just for tickle your brain!✨
@@ -102,6 +119,7 @@ https://wolfkanglim.github.io/hungrywolf-game/
 
 # 
 # 
+#  ✨ ✨ ✨
 ![sankebite](https://user-images.githubusercontent.com/74490365/160528268-246007ea-db7d-463d-9403-a0e97ba1ed36.png)
 # SnakeBite! My very best first classic game.
 ### about 40 years ago (1985...), I had an opportunity to see a PC(IBM or apple) for only one night. I open the book and there is a code for the Snake Bite game. I just follow the code and Voila! snake run!!
@@ -112,7 +130,8 @@ If I can do this, anyone can.
 ### SnakeBite-Javascript
 ### Try! take a bite.
 https://wolfkanglim.github.io/SnakeBite-javascript/
-
+#
+# ✨ ✨ ✨
 # 🌱 I’m currently learning ...
 ### three.js  
 - codrops (https://tympanus.net/codrops/)
