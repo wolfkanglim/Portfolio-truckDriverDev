@@ -8,7 +8,7 @@
 ### soundcloud  https://soundcloud.com/user-160571741
 ### Github  https://github.com/wolfkanglim
 ### CodePen  https://codepen.io/wolfkang
-### Daum Blog  https://blog.daum.net/truckerhungrywolf
+
 ### facebook  https://www.facebook.com/hungrywolfkang/
 =======
 <a> <img src="https://img.shields.io/badge/-JavaScript-blue?logo=javascript&logoColor=yellow&logoWidth=30&style=plastic">
