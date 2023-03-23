@@ -1,10 +1,10 @@
 ![47ff032a62eb9](https://user-images.githubusercontent.com/74490365/165426660-c16b1697-6ffe-4902-87c9-303c49e082b2.gif)
 ### Hi everyone 👋  My name is Wolfkang Lim aka  'truckDriverDev'.
-### ✨ I drove one Million Miles to get here.✨
+### I drove one Million Miles to get here.✨
 <!-- ![space-truck](https://user-images.githubusercontent.com/74490365/158002666-0fe88470-bf7b-4b37-9b47-22d68c653501.jpg) -->
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74490365/158002666-0fe88470-bf7b-4b37-9b47-22d68c653501.jpg" width="300" /></a>
 
-### truckDriverDev WOLFKANG music and visualization 
+### truckDriverDev WOLFKANG music and visualization, Games and 3D Art Creation 
 ### YouTube https://www.youtube.com/channel/UCsoR1FPL-sM05wd4jb8TvGg/videos
 ### soundcloud  https://soundcloud.com/user-160571741
 ### Github  https://github.com/wolfkanglim
