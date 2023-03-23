@@ -25,7 +25,9 @@
 <img src="https://img.shields.io/badge/-GitHub-61DAFB?logo=github&logoColor=black&logoWidth=30&style=plastic">
 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&logoHeight=30&style=plastic"></a>
 # 
-# ✨ ✨ ✨  Projects  ✨ ✨ ✨
+# ✨ ✨ ✨  Projects 2023 ✨ ✨ ✨
+## 
+# ✨ ✨ ✨  Projects 2022 ✨ ✨ ✨
 #
 ![visual3d](https://user-images.githubusercontent.com/74490365/192692944-f30dd61e-a00e-411a-bb96-9d4fa0c81d1e.png)
 # Orpheus 3d-music-visualizer
@@ -137,6 +139,13 @@ https://wolfkanglim.github.io/SnakeBite-javascript/
 ### three.js  
 - codrops (https://tympanus.net/codrops/)
   SimonDev(https://www.youtube.com/channel/UCEwhtpXrg5MmwlH04ANpL8A/featured)
+  Wael Yasmina (https://www.youtube.com/playlist?list=PLjcjAqAnHd1EIxV4FSZIiJZvsdrBc1Xho)
+  Suboptimal Engineer (https://www.youtube.com/playlist?list=PLTJ_bWjv6i7zjdyy3kQWY_1dADz-3n7iI)
+  Genka (https://www.youtube.com/playlist?list=PLnTPVrg9-a1NlwQFSfYn78Q-_kk67Q6Tv)
+  flanniganable (https://www.youtube.com/playlist?list=PLuywqn95st9TIHeayZpYUjMi8AfeOeicH)
+  GIS DEVELOPER (https://www.youtube.com/playlist?list=PLe6NQuuFBu7Gng3Z42Uf49REkR7tBxRZZ)
+  Blue Magnificent (https://medium.com/@bluemagnificent)
+  Nik Lever (https://www.youtube.com/playlist?list=PLFky-gauhF47J-DHN2h9cvaPxEXqCITzO)
 ### Apache Cordova 
 - javaTpoint(https://www.javatpoint.com/cordova-architecture)
 - Steve Griffith - Prof3ssorSt3v3 (https://www.youtube.com/c/SteveGriffith-Prof3ssorSt3v3/featured)
