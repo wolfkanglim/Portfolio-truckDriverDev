@@ -26,6 +26,7 @@
 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&logoHeight=30&style=plastic"></a>
 # 
 # ✨ ✨ ✨  Projects 2023 ✨ ✨ ✨
+3D Bowling Game, 3D Chess Game, Sea Trutle, 3D Box Breaker, 3D GLSL Music Visualizer, Generative Art.....
 ## 
 # ✨ ✨ ✨  Projects 2022 ✨ ✨ ✨
 #
