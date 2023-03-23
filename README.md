@@ -4,7 +4,7 @@
 <!-- ![space-truck](https://user-images.githubusercontent.com/74490365/158002666-0fe88470-bf7b-4b37-9b47-22d68c653501.jpg) -->
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74490365/158002666-0fe88470-bf7b-4b37-9b47-22d68c653501.jpg" width="300" /></a>
 
-### truckDriverDev WOLFKANG music and visualization, Games and 3D Art Creation 
+### truckDriverDev WOLFKANG Music and Visualization, Games and 3D Art Creation 
 ### YouTube https://www.youtube.com/channel/UCsoR1FPL-sM05wd4jb8TvGg/videos
 ### soundcloud  https://soundcloud.com/user-160571741
 ### Github  https://github.com/wolfkanglim
@@ -138,15 +138,15 @@ https://wolfkanglim.github.io/SnakeBite-javascript/
 # ✨ ✨ ✨
 # 🌱 I’m currently learning ...
 ### three.js  
-- codrops (https://tympanus.net/codrops/)
-  SimonDev(https://www.youtube.com/channel/UCEwhtpXrg5MmwlH04ANpL8A/featured)
-  Wael Yasmina (https://www.youtube.com/playlist?list=PLjcjAqAnHd1EIxV4FSZIiJZvsdrBc1Xho)
-  Suboptimal Engineer (https://www.youtube.com/playlist?list=PLTJ_bWjv6i7zjdyy3kQWY_1dADz-3n7iI)
-  Genka (https://www.youtube.com/playlist?list=PLnTPVrg9-a1NlwQFSfYn78Q-_kk67Q6Tv)
-  flanniganable (https://www.youtube.com/playlist?list=PLuywqn95st9TIHeayZpYUjMi8AfeOeicH)
-  GIS DEVELOPER (https://www.youtube.com/playlist?list=PLe6NQuuFBu7Gng3Z42Uf49REkR7tBxRZZ)
-  Blue Magnificent (https://medium.com/@bluemagnificent)
-  Nik Lever (https://www.youtube.com/playlist?list=PLFky-gauhF47J-DHN2h9cvaPxEXqCITzO)
+- codrops (https://tympanus.net/codrops/), 
+  SimonDev(https://www.youtube.com/channel/UCEwhtpXrg5MmwlH04ANpL8A/featured), 
+  Wael Yasmina (https://www.youtube.com/playlist?list=PLjcjAqAnHd1EIxV4FSZIiJZvsdrBc1Xho), 
+  Suboptimal Engineer (https://www.youtube.com/playlist?list=PLTJ_bWjv6i7zjdyy3kQWY_1dADz-3n7iI), 
+  Genka (https://www.youtube.com/playlist?list=PLnTPVrg9-a1NlwQFSfYn78Q-_kk67Q6Tv), 
+  flanniganable (https://www.youtube.com/playlist?list=PLuywqn95st9TIHeayZpYUjMi8AfeOeicH), 
+  GIS DEVELOPER (https://www.youtube.com/playlist?list=PLe6NQuuFBu7Gng3Z42Uf49REkR7tBxRZZ), 
+  Blue Magnificent (https://medium.com/@bluemagnificent), 
+  Nik Lever (https://www.youtube.com/playlist?list=PLFky-gauhF47J-DHN2h9cvaPxEXqCITzO).... many more tutorials.
 ### Apache Cordova 
 - javaTpoint(https://www.javatpoint.com/cordova-architecture)
 - Steve Griffith - Prof3ssorSt3v3 (https://www.youtube.com/c/SteveGriffith-Prof3ssorSt3v3/featured)
