@@ -28,8 +28,21 @@
 # ✨ ✨ ✨  Projects 2023 ✨ ✨ ✨
 https://github.com/wolfkanglim/Portfolio-truckDriverDev/assets/74490365/fc7b843f-272b-476b-9bf5-1fdb5e09fe1f
 
+3D Project No.3. Polyrythmic pendulum visualization. 21 pendulums 120 degree swings and play hypnotic sound. 
+I created in 3D with Three.js. Front and top camera view included.
+Sound from Vibraphones and Added cube textures as a background.
+It swings hypnotic in space, looks like a chaos, some time in middle but syncing up after 5 minutes 20 seconds and repeats again.
+
 https://github.com/wolfkanglim/Portfolio-truckDriverDev/assets/74490365/b9ec7471-edea-4837-abe0-eaa687d55554
 
+Create interactive 3D music video. Orpheus programmed JavaScript, Three.js, WebGL designed by Wolfkang Lim.
+Make your own music video now!
+Link: https://wolfkanglim.github.io/orpheus...
+
+You can make your own music video on your finger tip. you can fly through 3D world like camera movement. Download video and watch it as many as you want. Enjoy it and share it!
+I love creating new sound of music and visualizing with generative art use javascript, Threet.js glsl shaders.
+ if you wondering how to make this, please visit my github page
+Creative visual art, development with vanilla JavaScript & HTML canvas. VS Code. Some art work from THREE.JS 
 
 
 3D Bowling Game, 3D Chess Game, Sea Trutle, 3D Box Breaker, 3D GLSL Music Visualizer, Generative Art.....
