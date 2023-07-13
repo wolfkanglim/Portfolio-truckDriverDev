@@ -26,6 +26,12 @@
 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&logoHeight=30&style=plastic"></a>
 # 
 # ✨ ✨ ✨  Projects 2023 ✨ ✨ ✨
+https://github.com/wolfkanglim/Portfolio-truckDriverDev/assets/74490365/fc7b843f-272b-476b-9bf5-1fdb5e09fe1f
+
+https://github.com/wolfkanglim/Portfolio-truckDriverDev/assets/74490365/b9ec7471-edea-4837-abe0-eaa687d55554
+
+
+
 3D Bowling Game, 3D Chess Game, Sea Trutle, 3D Box Breaker, 3D GLSL Music Visualizer, Generative Art.....
 ## 
 # ✨ ✨ ✨  Projects 2022 ✨ ✨ ✨
